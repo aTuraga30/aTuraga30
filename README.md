@@ -1,4 +1,4 @@
-# 💻 🤖 🎾 Aravind Turaga
+# Aravind Turaga 💻 🤖 🎾 
 
 **`CS Student @ Penn State, Entrepreneur, Tech Enthusiast`**
 
