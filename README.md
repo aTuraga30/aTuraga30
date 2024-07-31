@@ -38,6 +38,6 @@ All of my projects are built from an idea, inspired by the opportunity to solve 
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-3ax9x043.png" />
 </a>
 <a href="https://www.instagram.com/">
-  <img align="left" alt="Instagram" style="padding-right:10px;" src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/06/instagram-logo.png" />
+  <img align="left" width="30px" height="30px" alt="Instagram" style="padding-right:10px;" src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/06/instagram-logo.png" />
 </a>
 
