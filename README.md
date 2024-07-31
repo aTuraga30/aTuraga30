@@ -2,6 +2,8 @@
 
 **`CS Student @ Penn State, Entrepreneur, Tech Enthusiast`**
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 Hello, world! I'm Aravind, and I am currently a junior at Penn State Univeristy pursuing a computer science major and a physics minor. I have been fortunate enough to have explored multiple areas in the field of computer science and have developed projects in 
 
 - 📱 web and app development
@@ -32,5 +34,4 @@ All of my projects are built from an idea, inspired by the opportunity to solve 
 ### GitHub Stats
 ![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aTuraga30&hide=issues,prs&theme=rose_pine&rank_icon=github)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
