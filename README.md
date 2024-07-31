@@ -33,4 +33,4 @@ All of my projects are built from an idea, inspired by the opportunity to solve 
 ![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aTuraga30&hide=issues,prs&theme=rose_pine&rank_icon=github)
 
 ### Contact 
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" />
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-3ax9x043.png" href="https://www.linkedin.com/in/sri-gourav-aravind-turaga/" />
