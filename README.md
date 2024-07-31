@@ -1,11 +1,7 @@
 # ⚡ Aravind Turaga
 
 **`CS Student @ Penn State, Entrepreneur, Tech Enthusiast`**
-
-<div style="text-align: center;">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin-bottom: 0; display: block; margin: 0 auto;" />
-</div>
-
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
 Hello, world! I'm Aravind, and I am currently a junior at Penn State Univeristy pursuing a computer science major and a physics minor. I have been fortunate enough to have explored multiple areas in the field of computer science and have developed projects in 
 
 - 📱 web and app development
