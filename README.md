@@ -37,4 +37,7 @@ All of my projects are built from an idea, inspired by the opportunity to solve 
 <a href="https://www.linkedin.com/in/sri-gourav-aravind-turaga/">
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-3ax9x043.png" />
 </a>
+<a href="https://www.instagram.com/">
+  <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTMzLXJpcHBlZC1hLTAwMy5wbmc.png" />
+</a>
 
