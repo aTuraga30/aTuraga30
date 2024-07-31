@@ -13,7 +13,7 @@ Hello, world! I'm Aravind, and I am currently a junior at Penn State Univeristy 
 All of my projects are built from an idea, inspired by the opportunity to solve a real-world problem. These projects reflect my purpose of applying the skills that I learn to help and better those around me.
 
 <div style="text-align: center;">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="display: inline-block; margin: 0 auto; max-width: 100%; height: auto;" />
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 --- 
