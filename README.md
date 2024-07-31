@@ -14,7 +14,7 @@ All of my projects are built from an idea, inspired by the opportunity to solve 
 
 --- 
 
-<img align="center" alt="Jokes Card" style="padding-left:120px" src="https://readme-jokes.vercel.app/api" />
+<img align="center" alt="Jokes Card" style="padding-left:120px" src="https://readme-jokes.vercel.app/api?hideBorder&theme=ayu-mirage" />
 
 ### 🧰 Languages/Tools/Frameworks
 
